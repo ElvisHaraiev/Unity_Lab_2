@@ -8,7 +8,7 @@
 
 3. Схема рівня
 Структура рівня максимально мінімалістична та зрозуміла за 3 секунди:
-<img width="869" height="1225" alt="NBD" src="https://github.com/user-attachments/assets/49771d58-1774-4a3a-a2c5-fd9f2844b750" />
+<img width="400" height="400" alt="NBD" src="https://github.com/user-attachments/assets/49771d58-1774-4a3a-a2c5-fd9f2844b750" />
 
 
 Простір руху: Прямокутне ігрове поле, обмежене невидимими стінами з трьох сторін (зліва, зверху, справа).
